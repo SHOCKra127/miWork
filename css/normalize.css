@@ -1,0 +1,40 @@
+body{
+  position: absolute;
+  
+  
+  
+  right: 700px;
+  height: 100vh;
+  margin: 0;
+   background: url(../img/Colesterol.jpg)center, no-repeat;
+   -webkit-background-size: cover ;
+   background-size: cover;
+  
+   font-family: 'Ubuntu', sans-serif;
+
+  
+   
+}
+  h1, h2, h3, h4, h5, h6{
+    margin: 0;
+  }
+
+   .intro{
+    position: relative;
+  
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+  
+    margin: 0;
+    background: #2980b9;
+    background: linear-gradient(135deg, rgb(246, 247, 243), #b0b2b3, #f1d484);
+  
+    cursor: pointer;
+   }
+   .main{
+    margin: 0;
+   }
+
+    
